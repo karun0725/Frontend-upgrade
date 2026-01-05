@@ -6,14 +6,14 @@ const appName = "frontend upgrade";
 console.log("App Name:", appName);
 
 const user = {
-  name: "amor"
+  name: "amor",
   role: "UI dev"
 };
 user.role = "frontend dev";
 console.log("user:", user);
 
 if(true) {
-  let message = "Insie block";
+  let message = "Inside block";
   console.log(message);
 }
 
